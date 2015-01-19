@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Week2_Intent</string>
+    <string name="str">wait a minute!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
